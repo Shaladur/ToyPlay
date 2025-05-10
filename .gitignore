@@ -76,3 +76,5 @@ DerivedDataCache/*
 Toyventure/DerivedDataCache/*
 Toyventure/Saved/Autosaves/PackageRestoreData.json
 /Toyventure/Saved/Autosaves
+Toyventure/Saved/Logs/Toyventure.log
+Toyventure/Saved/Telemetry/Telemetry.json
