@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Toyventure/Saved/webcache_4430
+Toyventure/Saved/Telemetry/Telemetry.json
+/Toyventure/Saved/Telemetry
