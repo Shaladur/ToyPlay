@@ -46,8 +46,14 @@
 				"E:/ToyPlay/Toyventure/Content/Blueprints/BPI_Interact.uasset",
 				"E:/ToyPlay/Toyventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/ToyPlay/Toyventure/Content/Blueprints/BP_Interactive.uasset",
-				"E:/ToyPlay/Toyventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
 				"E:/ToyPlay/Toyventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"E:/ToyPlay/Toyventure/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"E:/ToyPlay/Toyventure/Content/VehicleTemplate/Input/IMC_Car.uasset",
+				"E:/ToyPlay/Toyventure/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"E:/ToyPlay/Toyventure/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"E:/ToyPlay/Toyventure/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"E:/ToyPlay/Toyventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MF/FAV278ZX1HWNW4AL3JPVVF.uasset",
+				"E:/ToyPlay/Toyventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
 				"C:/Users/basti/Documents/Unreal Projects/ToyPlay/Toyventure/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
